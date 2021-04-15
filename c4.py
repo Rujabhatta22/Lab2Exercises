@@ -3,6 +3,7 @@
 num_1=int(input("enter 1st integer"))
 num_2=int(input("enter 2nd integer"))
 num_3=int(input("enter 2nd integer"))
+
 if num_1>num_2<num_3:
     print(f'{num_2}is the smallest')
 elif num_2>num_1<num_3:
