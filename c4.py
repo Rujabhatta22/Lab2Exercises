@@ -1,4 +1,5 @@
 #Given threeintegers, print the smallestone.(Threeintegers should be user input)
+
 num_1=int(input("enter 1st integer"))
 num_2=int(input("enter 2nd integer"))
 num_3=int(input("enter 2nd integer"))
